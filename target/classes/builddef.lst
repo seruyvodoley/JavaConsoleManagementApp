@@ -1,0 +1,22 @@
+-Xajruntimetarget:1.5
+-16
+-encoding
+UTF-8
+-source
+16
+-target
+16
+-classpath
+C:\Users\sb170\.m2\repository\org\aspectj\aspectjrt\1.9.7\aspectjrt-1.9.7.jar;C:\Users\sb170\.m2\repository\org\aspectj\aspectjweaver\1.9.7\aspectjweaver-1.9.7.jar;C:\Users\sb170\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar;C:\Users\sb170\.m2\repository\ch\qos\logback\logback-classic\1.2.10\logback-classic-1.2.10.jar;C:\Users\sb170\.m2\repository\ch\qos\logback\logback-core\1.2.10\logback-core-1.2.10.jar;C:\Users\sb170\Desktop\основы программирования\5 семестр\Разработка корпоративных систем\работа 1\Trial\target\classes
+-aspectpath
+C:\Users\sb170\.m2\repository\org\aspectj\aspectjweaver\1.9.7\aspectjweaver-1.9.7.jar
+-d
+C:\Users\sb170\Desktop\основы программирования\5 семестр\Разработка корпоративных систем\работа 1\Trial\target\classes
+-s
+C:\Users\sb170\Desktop\основы программирования\5 семестр\Разработка корпоративных систем\работа 1\Trial\target\generated-sources\aspectj-maven-plugin
+C:\Users\sb170\Desktop\основы программирования\5 семестр\Разработка корпоративных систем\работа 1\Trial\src\main\java\com\example\ConsoleApp.java
+C:\Users\sb170\Desktop\основы программирования\5 семестр\Разработка корпоративных систем\работа 1\Trial\src\main\java\com\example\Exam.java
+C:\Users\sb170\Desktop\основы программирования\5 семестр\Разработка корпоративных систем\работа 1\Trial\src\main\java\com\example\GraduationExam.java
+C:\Users\sb170\Desktop\основы программирования\5 семестр\Разработка корпоративных систем\работа 1\Trial\src\main\java\com\example\LoggingAspect.java
+C:\Users\sb170\Desktop\основы программирования\5 семестр\Разработка корпоративных систем\работа 1\Trial\src\main\java\com\example\Test.java
+C:\Users\sb170\Desktop\основы программирования\5 семестр\Разработка корпоративных систем\работа 1\Trial\src\main\java\com\example\TestBase.java

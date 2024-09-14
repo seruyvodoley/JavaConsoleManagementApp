@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/main/java/com/example/ConsoleApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/java/com/example/Exam.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/java/com/example/GraduationExam.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/java/com/example/LoggingAspect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/java/com/example/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/java/com/example/TestBase.java" charset="UTF-8" />
+  </component>
+</project>
